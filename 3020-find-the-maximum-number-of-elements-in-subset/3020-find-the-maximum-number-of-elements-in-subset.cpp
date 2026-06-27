@@ -12,15 +12,18 @@ public:
             if (start == 1) continue;
             long long cur = start;
             int pairs = 0;
+
             while (cnt[cur] >= 2) {
-                if (cur > 31622) break;          // cur*cur
+                if (cur > 31622) break;          // cur*cur would exceed 1e9
                 long long nxt = cur * cur;
                 if (!cnt.count(nxt)) break;
+
                 pairs += 2;
                 cur = nxt;
             }
             ans = max(ans, pairs + 1);
         }
+
         return ans;
     }
 };
