@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3531-count-covered-buildings](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3531-count-covered-buildings](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/3531-count-covered-buildings) |
 ## Enumeration
 |  |
 | ------- |
@@ -22,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3531-count-covered-buildings](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
