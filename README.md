@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/0005-longest-palindromic-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Depth-First Search
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
