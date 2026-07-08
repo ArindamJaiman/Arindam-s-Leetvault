@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/0005-longest-palindromic-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ArindamJaiman/Arindam-s-Leetvault/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
